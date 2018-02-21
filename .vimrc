@@ -3,8 +3,8 @@ set nocompatible
 set hlsearch
 set autoindent
 set expandtab
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=2
+set softtabstop=2
 set showcmd
 set showmatch
 set ignorecase
@@ -172,8 +172,6 @@ map <Leader>n :call RunNearestSpec()<CR>
 map <Leader>l :call RunLastSpec()<CR>
 map <Leader>a :call RunAllSpecs()<CR>
 
-"dbext
-let g:dbext_default_buffer_lines = 20
-let g:dbext_default_profile_silla='type=MYSQL:user=root:passwd=mariadb:dbname=athlon_framework'
-let g:dbext_default_profile_testspace='type=MYSQL:user=root:passwd=mariadb:dbname=s2_development'
-let g:dbext_default_profile='testspace'
+" supercollider
+let g:sclangTerm="st -e $SHELL -ic"
+let g:scFlash=1
