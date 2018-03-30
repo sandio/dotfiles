@@ -1,15 +1,14 @@
 https://github.com/FelikZ/ctrlp-py-matcher
 https://github.com/ctrlpvim/ctrlp.vim.git
-https://github.com/vim-scripts/dbext.vim
 https://github.com/AndrewRadev/linediff.vim
 https://github.com/Shougo/neocomplcache.vim.git
 https://github.com/Shougo/neosnippet-snippets
 https://github.com/Shougo/neosnippet.vim
+git@github.com:AndrewRadev/splitjoin.vim.git
 https://github.com/scrooloose/syntastic.git
 https://github.com/jgdavey/tslime.vim
-https://github.com/joonty/vdebug.git
 https://github.com/altercation/vim-colors-solarized
 https://github.com/airblade/vim-gitgutter.git
 https://github.com/thoughtbot/vim-rspec
-https://github.com/kshenoy/vim-signature.git
 https://github.com/honza/vim-snippets
+git@github.com:tpope/vim-vinegar.git
